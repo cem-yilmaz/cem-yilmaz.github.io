@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0aaa460fa960ef98",
+        "id": "ebe6fe37095d33e2",
         "type": "tabs",
         "children": [
           {
@@ -13,35 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-01-27-code-diff.md",
+                "file": "_posts/2015-07-15-code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-01-27-code-diff"
+              "title": "2015-07-15-code"
             }
-          }
-        ]
-      },
-      {
-        "id": "ebe6fe37095d33e2",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "6279025861c6da81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/BlogPost Template.md",
+                "file": "_posts/2024-10-31-hello-world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BlogPost Template"
+              "title": "2024-10-31-hello-world"
+            }
+          },
+          {
+            "id": "7236b0255bfb9e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_site/_pages/about_cem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "about_cem"
+            }
+          },
+          {
+            "id": "8638d29e671c6281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-10-31-how-i-use-obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-31-how-i-use-obsidian"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4e295c562abad087",
@@ -113,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/BlogPost Template.md",
+                "file": "_posts/2024-10-31-how-i-use-obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BlogPost Template"
+              "title": "Backlinks for 2024-10-31-how-i-use-obsidian"
             }
           },
           {
@@ -132,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/BlogPost Template.md",
+                "file": "_posts/2024-10-31-how-i-use-obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from BlogPost Template"
+              "title": "Outgoing links from 2024-10-31-how-i-use-obsidian"
             }
           },
           {
@@ -159,10 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/BlogPost Template.md"
+                "file": "_posts/2024-10-31-how-i-use-obsidian.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of BlogPost Template"
+              "title": "Outline of 2024-10-31-how-i-use-obsidian"
             }
           }
         ]
@@ -182,9 +206,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6279025861c6da81",
+  "active": "8638d29e671c6281",
   "lastOpenFiles": [
+    "_site/blog/2024/how-i-use-obsidian/index.html",
+    "_site/blog/2024/how-i-use-obsidian",
+    "_site/_pages/about_cem.md",
+    "_posts/2024-10-31-hello-world.md",
+    "_posts/2024-10-31-how-i-use-obsidian.md",
+    "_site/Untitled.md",
+    "Untitled.md",
+    "_site/blog/tag/personal/index.html",
+    "_site/blog/tag/personal",
+    "_posts/2015-07-15-code.md",
+    "_pages/about.md",
+    "_pages/about_cem.md",
+    "_pages/cv.md",
+    "readme_preview/cv.png",
+    "_posts/2018-12-22-distill.md",
     "_posts/2024-01-27-code-diff.md",
+    "_posts/2015-03-15-formatting-and-links.md",
+    "_site/blog/2024/hello-world/index.html",
+    "_site/blog/2024/hello-world",
+    "_templates/BlogPost Template.md",
     "_posts/2024-01-27-advanced-images.md",
     "_posts/2024-01-26-geojson-map.md",
     "_posts/2024-01-26-echarts.md",
@@ -196,20 +239,7 @@
     "_posts/2023-04-25-sidebar-table-of-contents.md",
     "_posts/2023-03-20-table-of-contents.md",
     "_posts/2023-03-21-tables.md",
-    "_posts/2018-12-22-distill.md",
     "_posts/2022-12-10-giscus-comments.md",
-    "_posts/2022-02-01-redirect.md",
-    "_posts/2021-07-04-diagrams.md",
-    "_posts/2020-09-28-twitter.md",
-    "_posts/2015-10-20-math.md",
-    "_posts/2015-10-20-disqus-comments.md",
-    "_posts/2015-07-15-code.md",
-    "_templates/BlogPost Template.md",
-    "_posts/2015-05-15-images.md",
-    "_posts/2015-03-15-formatting-and-links.md",
-    "_posts/2024-01-27-vega-lite.md",
-    "_templates",
-    "_posts/2024-04-28-post-citation.md",
-    "_posts/2023-04-25-audios.md"
+    "_templates"
   ]
 }
