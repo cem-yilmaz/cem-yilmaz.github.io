@@ -49,11 +49,54 @@ I just didn't like it.
 
 I think Notion subscribes too strongly to a "style-over-substance" mantra. You've got built in support for UnSplash banner photos on notes, but you can't cleanly export the notes as Markdown. You can add emoji icons to notes, but you must choose from one of 8 pre-defined hex codes if you want a block colour banner. You've also got constant pop-ups for features as you type, sluggish performance, and for all the praise it's databases get, you can't simply insert a link to a note as the value to a cell![^workaround]
 # Obsidian
-It was at this point I found Obsidian, and everything just worked. I had an app that 
-## How I take my notes
+It was at this point I found Obsidian, and everything just worked. I had an app that kept my notes in plain text, local on my computer. I had an app with no thrills, tiling panes, extensions that let me add functionality from an [automated table of contents](https://github.com/johansatge/obsidian-automatic-table-of-contents) to a full [web browser](https://github.com/PKM-er/Obsidian-Surfing) within the app, or a complete re-write of the [PDF annotation](https://github.com/RyotaUshio/obsidian-pdf-plus) system.[^graph]
 ## What I wouldn't reccomend doing
-## What I *would* reccomend doing
+### Bloat
+It's very easy to get into an Obsidian rabbit hole in YouTube finding out what it *can* do. Due to the plugin system, Obsidian can be set up for tabletop RPGs, work, personal journaling, [Zettelkasten-ing](https://zettelkasten.de/overview/), and much more.
 
-[^skip]: The contents page is just to the left if you don't fancy all of that.
+**It's entirely possible to install all the tools for this all at once. Don't do this**. I originally had Obsidian setup for personal journaling, a calendar/reminder/todo system, habit tracking, university, and gym routine all at one. 
+
+Remember - Obsidian is a *markdown editor*. You are, ultimately, *just editing markdown files*. There's a common mantra in the Obsidian community to turn it into a "second brain" due to the fact you can enable all of this. That will genuinely work for some people; for me, in [the words of By Default](https://www.youtube.com/watch?v=XRpHIa-2XCE),
+
+ > I just need to turn my text files, into slightly more organised text files.
+
+I'll just say Obsidian was a much more productive app for me once I ditched the calendar etc, and used it solely to explore topics for uni.
+### (Optional) Ignoring linking
+This one's optional because I got by pretty well for quite some time under-utilising linking. I used to simply open a note for each lecture, and write down the stuff for that lecture. When I tried to link to topics in other lectures, I'd do so by referring to the heading/block of text it was located in.
+
+## What I *would* reccomend doing
+For each course, make a folder. You can optionally add subfolders for each week, but it's not necessary.
+
+For each lecture, reading etc, open up a new note. This note is going to serve as a launchpad for your ideas. Type your high level ideas here. Whenever a new topic[^topic] is brought up, e.g. *Gradient Descent*, you would type (in your note) 
+
+ > `![[Gradient Descent]]` 
+ 
+The double square brackets make it so Obsidian recognises this as a note link, and the `!` means it will be *embedded* in the note.
+
+Click into that note to create it, and start writing. You can embed a note in this note, or if a new topic arises jump back to the old one.
+
+Whatever you do, **keep the title of the note atomic** - don't call it something like `Lecture 5 - Gradient Descent`. This is so you can link to it in other notes: for example, in a note titled `Neural Networks`, I could say
+
+ > We then perform `[[Gradient Descent]]` on the weights
+ 
+and when I'm looking back on that note, I can just hover over the link to see it's content.
+
+
+This process can be quite intensive, so when starting out you may want to use my previously noted no-linking method to get Obsidian's more basic benefits. However, I highly suggest doing this when possible. A few more tips I wish I knew about:
+- Obsidian has built-in $$ \LaTeX $$ support, which can be supercharged with the [Quick Latex](https://github.com/joeyuping/quick_latex_obsidian) plugin, allowing for custom macros which I usually regularly
+- iPad note-takers rejoice! The [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) plugin has excellent drawing tablet support. It has many other features for creating diagrams, but I literally only use this for drawings
+- The built-in [templates](https://help.obsidian.md/Plugins/Templates) function is good enough for most people. Other more advanced templating extensions are available.
+- Obsidian offer a paid syncing service. I pay for this (mainly as a way to say thanks but also because none of the other options I'm about to mention would work on my phone), but because Obsidian is just an editor for markdown files, it's easy to use a free [third party service](https://help.obsidian.md/Obsidian+Sync/Sync+limitations#Can+I+use+a+third-party+sync+with+Obsidian+Sync%3F) instead. I used the [Obsidian Git](https://github.com/Vinzent03/obsidian-git) plugin for this for quite some time, and it worked quite well - the only reason I switched was because it was a right arse to set up on mobile!
+
+
+This is my current note-taking workflow with Obsidian and I highly recommend it to a specific kind of nerd.
+
+
+---
+
+
+[^skip]: The contents page is just to the left if you don't fancy all of that. The section "**What I *would* reccomend doing**" contains the crux of this article.
 [^rb]: This section mainly exists as the "rock bottom" of note-taking, if I'm being honest.
 [^workaround]: You *can*, technically. You can insert a type of page, which I called the same name as the note I intended to link to, and on that page you can add a text body which contains a link to the note. If this was confusing to read, then imagine the UX behind figuring it out!
+[^graph]: "*But what about [the graph](https://help.obsidian.md/Plugins/Graph+view)?*" I hear seasoned Obsidian users cry out. I like the graph. It's cool. I don't find it useful for productivity (hence it's absence here) but I do sometimes open it if I'm bored.
+[^topic]: It's up to you what constitutes a small factoid and what needs to be a topic/idea. I usually think "*How likely am I to refer to specifically this in the future?*"
