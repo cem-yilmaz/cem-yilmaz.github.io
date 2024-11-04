@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-03-dockerise-all-the-things.md",
+                "file": "_posts/2024-11-03-dockerise-all-the-things.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,14 +220,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7236b0255bfb9e57",
+  "active": "8638d29e671c6281",
   "lastOpenFiles": [
+    "_posts/2024-11-03-dockerise-all-the-things.md",
+    "_pages/about.md",
     "_site/_pages/about_cem.md",
     "_posts/2024-11-03-how-i-use-obsidian.md",
     "_posts/2024-10-31-hello-world.md",
     "_site/blog/tag/uni/index.html",
     "_site/blog/tag/uni",
-    "2024-11-03-dockerise-all-the-things.md",
     "_site/2024-11-03-dockerise-all-the-things/index.html",
     "_site/2024-11-03-dockerise-all-the-things",
     "_site/2024-11-03-dockerise-all-the-things.md",
@@ -238,7 +239,6 @@
     "_site/blog/2024/how-i-use-obsidian",
     "_site/blog/tag/personal/index.html",
     "_site/blog/tag/personal",
-    "_pages/about.md",
     "_pages/about_cem.md",
     "_pages/cv.md",
     "readme_preview/cv.png",

@@ -2,7 +2,7 @@
 layout: post
 title: How I use Obsidian to study
 date: 2024-11-03
-description: A timeline of my relationship with the excellent Markdown editor "Obsidian", and how my note-taking workflow has evolved over uni.
+description: A timeline of my relationship with the excellent Markdown editor Obsidian, and how my note-taking workflow has evolved over uni.
 tags:
   - uni
 categories: 
