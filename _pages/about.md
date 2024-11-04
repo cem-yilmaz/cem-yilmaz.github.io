@@ -22,3 +22,4 @@ Hello! I'm Cem, a 4th Year undergraduate at The University of Edinburgh. I have 
 This website exists more as a complete collection of my projects and thoughts. If you'd rather see a more *condensed* overview of my achievements, consider viewing my [CV](/cv/). 
 
 # **This website is still under construction!**
+## Most pages are still placeholder, please have patience!

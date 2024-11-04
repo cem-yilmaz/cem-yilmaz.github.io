@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_site/_pages/about_cem.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about_cem"
+              "title": "about"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,10 +220,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8638d29e671c6281",
+  "active": "7236b0255bfb9e57",
   "lastOpenFiles": [
-    "_posts/2024-10-31-hello-world.md",
+    "_site/_pages/about_cem.md",
     "_posts/2024-11-03-how-i-use-obsidian.md",
+    "_posts/2024-10-31-hello-world.md",
     "_site/blog/tag/uni/index.html",
     "_site/blog/tag/uni",
     "2024-11-03-dockerise-all-the-things.md",
@@ -235,7 +236,6 @@
     "_posts/2015-07-15-code.md",
     "_site/blog/2024/how-i-use-obsidian/index.html",
     "_site/blog/2024/how-i-use-obsidian",
-    "_site/_pages/about_cem.md",
     "_site/blog/tag/personal/index.html",
     "_site/blog/tag/personal",
     "_pages/about.md",
