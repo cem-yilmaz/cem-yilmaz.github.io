@@ -12,3 +12,7 @@ featured:
 toc:
   sidebar: left
 ---
+In the summer of 2024
+# What is Docker?
+# How did I use Docker?
+# What were the results?
