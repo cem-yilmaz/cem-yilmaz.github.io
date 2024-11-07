@@ -4,39 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "ebe6fe37095d33e2",
+        "id": "7052eeada27c2a68",
         "type": "tabs",
         "children": [
           {
-            "id": "7236b0255bfb9e57",
+            "id": "84897712178ceb03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_templates/Project Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "Project Template"
             }
           },
           {
-            "id": "a00edb0dad46334e",
+            "id": "b1696c5062fdf427",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-11-04-dockerise-all-the-things.md",
+                "file": "_projects/spoilers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-04-dockerise-all-the-things"
+              "title": "spoilers"
+            }
+          },
+          {
+            "id": "77a380f8aabdc489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/ilp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ilp"
+            }
+          },
+          {
+            "id": "60e587a1d69cdd7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/fds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fds"
+            }
+          },
+          {
+            "id": "c0422e4c8abed9dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/ttds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ttds"
+            }
+          },
+          {
+            "id": "7ea926131d8aa73e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/diss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "diss"
+            }
+          },
+          {
+            "id": "c991e927cb59401d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/sepp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sepp"
+            }
+          },
+          {
+            "id": "b5f840ec5292ea31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/tickbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tickbox"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,44 +262,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a00edb0dad46334e",
+  "active": "c991e927cb59401d",
   "lastOpenFiles": [
+    "_site/projects/sepp/index.html",
+    "_site/projects/sepp",
+    "_site/sepp/index.html",
+    "_site/sepp",
+    "_projects/diss.md",
+    "_projects/sepp.md",
+    "_site/projects/diss/index.html",
+    "_site/projects/diss",
+    "_site/diss/index.html",
+    "_site/diss",
+    "_site/diss.md",
+    "_projects/ttds.md",
+    "_projects/spoilers.md",
+    "_projects/fds.md",
+    "_projects/ilp.md",
+    "_projects/tickbox.md",
+    "_site/projects/tickbox/index.html",
+    "_site/projects/tickbox",
+    "_site/tickbox/index.html",
+    "_site/ttds.md",
+    "_site/Untitled.md",
+    "_site/fds.md",
+    "_site/ilp.md",
+    "_site/projects.md",
+    "_projects/example_projects/1_project.md",
+    "_templates/Project Template.md",
+    "_projects/example_projects/2_project.md",
+    "_projects/example_projects/4_project.md",
+    "_posts/2024-11-04-dockerise-all-the-things.md",
     "_pages/about.md",
     "_posts/_example_posts/2015-05-15-images.md",
     "_posts/2024-10-31-hello-world.md",
     "_posts/_example_posts/2024-01-27-advanced-images.md",
     "_posts/2024-11-03-how-i-use-obsidian.md",
-    "_posts/2024-11-04-dockerise-all-the-things.md",
     "_posts/_example_posts/2024-05-01-tabs.md",
     "_posts/_example_posts/2024-04-29-typograms.md",
-    "_posts/_example_posts/2024-04-28-post-citation.md",
-    "_posts/_example_posts/2024-04-15-pseudocode.md",
-    "_posts/_example_posts/2024-01-27-vega-lite.md",
-    "_posts/_example_posts/2024-01-27-code-diff.md",
-    "_posts/_example_posts/2024-01-26-geojson-map.md",
-    "_posts/_example_posts/2024-01-26-echarts.md",
-    "_posts/_example_posts/2024-01-26-chartjs.md",
-    "_posts/_example_posts/2023-12-12-tikzjax.md",
-    "_posts/_example_posts/2023-07-12-post-bibliography.md",
-    "_posts/_example_posts/2023-07-04-jupyter-notebook.md",
-    "_posts/_example_posts/2023-05-12-custom-blockquotes.md",
-    "_posts/_example_posts/2023-04-25-sidebar-table-of-contents.md",
-    "_posts/_example_posts/2023-04-25-audios.md",
-    "_posts/_example_posts/2023-04-24-videos.md",
-    "_posts/_example_posts/2023-03-21-tables.md",
-    "_posts/_example_posts/2023-03-20-table-of-contents.md",
-    "_posts/_example_posts/2022-12-10-giscus-comments.md",
-    "_posts/_example_posts/2022-02-01-redirect.md",
-    "_posts/_example_posts",
-    "_site/blog/2024/dockerise-all-the-things/index.html",
-    "_site/blog/2024/dockerise-all-the-things",
-    "_site/blog/tag/uni/index.html",
-    "_site/blog/tag/uni",
-    "_site/2024-11-03-dockerise-all-the-things/index.html",
-    "_site/2024-11-03-dockerise-all-the-things",
-    "_site/blog/2024/how-i-use-obsidian/index.html",
-    "_site/blog/2024/how-i-use-obsidian",
-    "_site/blog/tag/personal/index.html",
     "readme_preview/cv.png"
   ]
 }
